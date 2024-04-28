@@ -20,7 +20,7 @@ module.exports = {
     'prettier',
   ],
 
-  ignorePatterns: ['.eslintrc.js'],
+  ignorePatterns: ['.eslintrc.js', 'bin'],
 
   rules: {
     'no-unused-vars': 'error',
