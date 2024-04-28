@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "@hurdless/template",
   "version": "1.0.0",
   "repository": "https://github.com/hurdless/template.git",
   "author": "PracticeEveryday <developerforus@gmail.com>",
@@ -36,5 +36,20 @@
     "ts-jest": "^29.1.2",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5"
+  },
+  "publishConfig": {
+    "access": "public",
+    "main": "./dist/index.js",
+    "module": "./dist/index.mjs",
+    "exports": {
+      ".": {
+        "require": "./dist/index.js",
+        "import": "./dist/index.mjs",
+        "types": "./dist/index.d.ts"
+      },
+      "./package.json": "./package.json"
+    },
+    "types": "./dist/index.d.ts",
+    "import": "./dist/index.mjs"
   }
 }
