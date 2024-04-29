@@ -15,6 +15,9 @@
     "skipLibCheck": true,
     "strict": true,
     "traceResolution": false,
+    "emitDeclarationOnly": true,
+    "isolatedModules": true,
+
     "types": ["jest"]
   },
   "compileOnSave": false,
