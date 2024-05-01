@@ -10,7 +10,7 @@ assignees: ''
 ### Issue
 
 작업을 하게된 배경(이슈)를 작성해주세요  
-Describe the context (issue) that led to your work
+Describe the context(issue) that led to your work
 ---
 
 
