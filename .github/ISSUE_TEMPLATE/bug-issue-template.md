@@ -21,6 +21,20 @@ Describe your reproduction process(Optional)
 
 ---
 
+### Reproduction results(Optional)
+
+재현 결과에 대해 기술해주세요(선택 사항)
+Describe your reproduction results(Optional)
+
+---
+
+### Expected results
+
+기대한 결과에 대해 기술해주세요
+Describe your Expected results(Optional)
+
+---
+
 ### Possible Solution
 
 해결 가능한 방법에 대해 작성해주세요  
