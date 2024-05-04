@@ -23,8 +23,8 @@ Describe your reproduction process(Optional)
 
 ### Reproduction results(Optional)
 
-재현 결과에 대해 기술해주세요(선택 사항)
-Describe your reproduction results(Optional)
+이미지나 설명으로 재현 결과에 대해 기술해주세요(선택 사항)
+Describe your reproduction results of image or description(Optional)
 
 ---
 
