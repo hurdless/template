@@ -42,6 +42,13 @@ Write about a possible solution
 
 ---
 
+### Close Issue
+
+close #{issue number}
+
+생성한 이슈를 Close 처리 하기 위해 {issue number} 부분에 생성한 이슈의 번호를 입력해주세요
+In order to close the issue, please enter the number of the issue you created in the {issue number} field
+
 ### ETC
 
 etc
